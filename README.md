@@ -4,5 +4,5 @@ Backup von allen Protokollen auf files.zbin.
 ## Neue Protokolle?
 Einfach ein Pullrequest eröffnen!
 
-## Uhrheberrecht
+## Urheberrecht
 Falls jemand sein Protokoll entfernen lassen möchte, einfach ein Issue eröffnen
